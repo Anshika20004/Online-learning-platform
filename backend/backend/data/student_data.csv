@@ -1,0 +1,9 @@
+score,time_taken,accuracy,attempts,topic_perf,level
+75,25,92,1,0.77,High
+45,35,78,2,0.55,Medium
+22,50,65,3,0.32,Low
+88,18,95,1,0.89,High
+62,28,85,1,0.72,High
+33,42,70,2,0.48,Medium
+12,60,55,4,0.25,Low
+95,15,98,1,0.94,High
